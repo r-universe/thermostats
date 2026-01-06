@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RVA"]
-	path = RVA
-	url = https://github.com/thermostats/rva
 [submodule "ssdGSA"]
 	path = ssdGSA
 	url = https://github.com/cran/ssdGSA
